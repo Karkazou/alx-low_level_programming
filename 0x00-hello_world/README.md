@@ -1,1 +1,1 @@
-redme
+my first poject in c 
