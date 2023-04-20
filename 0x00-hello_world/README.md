@@ -1,1 +1,1 @@
-this is my project for c
+my project fir c lang
