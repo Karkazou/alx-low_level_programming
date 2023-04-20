@@ -1,1 +1,1 @@
-my first poject in c 
+this is my project for c
