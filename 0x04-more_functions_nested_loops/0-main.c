@@ -17,7 +17,3 @@ int main(void)
 
     return (0);
 }
-julien@ubuntu:~/0x04$ gcc -Wall -pedantic -Werror -Wextra -std=gnu89 0-main.c 0-isupper.c -o 0-isuper
-julien@ubuntu:~/0x04$ ./0-isuper 
-A: 1
-a: 0
